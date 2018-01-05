@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">FragmentProject</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    <string-array name="people_names">
+        <item>maria</item>
+        <item>monika</item>
+        <item>sultana</item>
+        <item>faiaz</item>
+        <item>koli</item>
+        <item>amzad</item>
+    </string-array>
+</resources>
